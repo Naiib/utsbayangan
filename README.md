@@ -5,7 +5,7 @@ Repository ini disusun untuk tugas mandiri analisis dan pengujian perangkat luna
 ## Identitas
 
 - Nama: Muhammad Naqib Muhtadi
-- NIM: **Isi NIM sebelum dikumpulkan**
+- NIM: 12409011050134
 - Program studi: Teknik Informatika
 - Institusi: UIN Syarif Hidayatullah Jakarta
 
@@ -28,8 +28,6 @@ analisis-white-box-testing/
 │   └── analisis.md
 ├── 02-spring-petclinic/
 │   └── analisis.md
-└── docs/
-    └── Laporan_Final_Analisis_White_Box_Testing.docx
 ```
 
 ## 1. Menjalankan Program Persamaan Kuadrat
